@@ -3,7 +3,7 @@ name: Crypto Indices Data Collection
 on:
   schedule:
     # Запуск каждые 30 минут
-    - cron: '*/30 * * * *'
+    - cron: '*/60 * * * *'
   workflow_dispatch:  # Позволяет запускать вручную
 
 jobs:
