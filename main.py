@@ -151,6 +151,21 @@ INDICES = {
             159512: "GRIFFAIN",   # GRIFFAIN
             160377: "PROMPT",     # Prompt
             159726: "BID",        # CreatorBid
+            158235: "ZEREBRO",    # zerebro
+            159833: "ARC",        # AI Rig Complex
+            19908: "BOTTO",       # Botto
+            158116: "SPEC",       # Spectral
+            53675: "VADER",       # VaderAI by Virtuals
+            159091: "HEU",        # Heurist
+            159116: "GRIFT",      # ORBIT
+            152264: "ATH",        # Aethir
+            159961: "KAITO",      # KAITO
+            160999: "SAHARA",     # Sahara AI
+            159172: "VANA",       # Vana
+            152222: "IO",         # Ionet
+            351: "NMR",           # Numeraire
+            159730: "VVV",        # Venice Token
+            7780: "POND",         # Marlin
         }
     },
 
