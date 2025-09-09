@@ -143,18 +143,32 @@ INDICES = {
         "name": "Meme Coins",
         "description": "Мем-токены и community-driven проекты",
         "tokens": {
-            12: "DOGE",      # Dogecoin
-            285: "SHIB",     # Shiba Inu
-            159246: "PEPE",  # Pepe
-            70317: "FLOKI",  # Floki
-            70056: "WIF",    # dogwifhat
-            156269: "BONK",  # Bonk
-            159989: "BRETT", # Brett
-            160097: "MEW",   # cat in a dogs world
-            157068: "POPCAT",# Popcat
-            160321: "MOG",   # Mog Coin
-            160636: "TURBO", # Turbo
-            160833: "NEIRO"  # Neiro
+            29: "DOGE",           # Dogecoin
+            110579: "PEPE",       # Pepe
+            89249: "BONK",        # Bonk
+            159596: "TRUMP",      # Official Trump
+            161158: "PUMP",       # Pump.fun
+            160373: "FORM",       # Four
+            149030: "SPX",        # SPX6900
+            149337: "WIF",        # dogwifhat
+            158054: "FARTCOIN",   # Fartcoin
+            160683: "B",          # BUILDon
+            112525: "BRETT",      # Brett
+            148055: "MOG",        # Mog Coin
+            140966: "POPCAT",     # Popcat
+            149709: "MEW",        # cat in a dogs world
+            149175: "TOSHI",      # Toshi
+            13231: "USELESS",     # USELESS COIN
+            159609: "MELANIA",    # Melania Meme
+            111755: "MEME",       # MemeCoin
+            158170: "AI16Z",      # ai16z
+            148829: "PURR",       # Purr
+            158149: "GOAT",       # Goatseus Maximus
+            152233: "AURA",       # Aura
+            159211: "FAI",        # Freysa
+            159751: "JELLYJELLY", # jelly-my-jelly
+            149449: "DEGEN",      # Degen
+            158923: "ALCH",       # Alchemist AI
         }
     }
 }
