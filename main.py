@@ -105,7 +105,7 @@ INDICES = {
         "description": "Протоколы децентрализованных финансов",
         "tokens": {
             159246: "HYPE",       # Hyperliquid
-            3024: "UNI",          # Uniswap
+            146377: "AERO",       # Aerodrome
             2267: "JUP",          # Jupiter
             2004: "CRV",          # Curve
             11880: "RAY",         # Raydium
@@ -113,13 +113,11 @@ INDICES = {
             148067: "MORPHO",     # Morpho
             149895: "ETHFI",      # Ether.fi
             12563: "FLUID",       # Fluid
-            158104: "EGP",        # Eigenpie
             157931: "EIGEN",      # Eigenlayer
             151373: "DRIFT",      # Drift Protocol
             67570: "EUL",         # Euler
             3154: "AAVE",         # Aave
             53424: "STG",         # Stargate Finance
-            151267: "KMNO",       # Kamino
             160938: "SPK",        # Spark
             160469: "DOLO",       # Dolomite
             17554: "JOE",         # JOE
@@ -205,10 +203,10 @@ INDICES = {
 
 # Единые веса для всех индексов
 WEIGHTS = {
-    'sentiment': 0.45,           # 45% вес
-    'interactions_24h': 0.05,    # 5% вес
-    'social_volume_24h': 0.05,   # 5% вес
-    'alt_rank': 0.45             # 45% вес
+    'sentiment': 0.25,           # 25% вес
+    'interactions_24h': 0.10,    # 10% вес
+    'social_volume_24h': 0.10,   # 10% вес
+    'alt_rank': 0.55             # 555% вес
 }
 
 # Базовые значения для сигмоидной нормализации
