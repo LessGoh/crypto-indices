@@ -106,20 +106,36 @@ INDICES = {
         "name": "DeFi",
         "description": "Протоколы децентрализованных финансов",
         "tokens": {
-            28: "UNI",       # Uniswap
-            1048: "AAVE",    # Aave
-            7035: "MKR",     # MakerDAO
-            3094: "COMP",    # Compound
-            1844: "CRV",     # Curve
-            1758: "SUSHI",   # SushiSwap
-            7040: "YFI",     # Yearn Finance
-            261: "SNX",      # Synthetix
-            1834: "1INCH",   # 1inch
-            33193: "RUNE",   # THORChain
-            2477: "BAL",     # Balancer
-            30208: "LDO",    # Lido DAO
-            52713: "JOE",    # TraderJoe
-            154003: "JUP"    # Jupiter
+            159246: "HYPE",       # Hyperliquid
+            3024: "UNI",          # Uniswap
+            2267: "JUP",          # Jupiter
+            2004: "CRV",          # Curve
+            11880: "RAY",         # Raydium
+            13238: "PENDLE",      # Pendle
+            148067: "MORPHO",     # Morpho
+            149895: "ETHFI",      # Ether.fi
+            12563: "FLUID",       # Fluid
+            158104: "EGP",        # Eigenpie
+            157931: "EIGEN",      # Eigenlayer
+            151373: "DRIFT",      # Drift Protocol
+            67570: "EUL",         # Euler
+            3154: "AAVE",         # Aave
+            53424: "STG",         # Stargate Finance
+            151267: "KMNO",       # Kamino
+            160938: "SPK",        # Spark
+            160469: "DOLO",       # Dolomite
+            17554: "JOE",         # JOE
+            75800: "SOLV",        # Solv Protocol
+            51884: "GNS",         # Gains Network
+            67589: "HFT",         # Hashflow
+            161295: "TREE",       # Treehouse
+            160855: "RESOLV",     # Resolv
+            160916: "MITO",       # Mitosis
+            160400: "KERNEL",     # KernelDAO
+            157912: "ORDER",      # Orderly Network
+            158017: "PUFFER",     # Puffer
+            159635: "DRV",        # Derive
+            141575: "PNP",        # Penpie
         }
     },
 
