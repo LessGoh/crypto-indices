@@ -74,7 +74,6 @@ INDICES = {
         "tokens": {
             46356: "ONDO",   # Ondo Finance
             158332: "SYRUP", # Maple Finance
-            18: "LINK",      # Chainlink
             159642: "PLUME", # PLUME
             158860: "USUAL", # USUAL
             149893: "ENA",   # Ethena
@@ -83,7 +82,6 @@ INDICES = {
             157749: "USTBL", # Spiko
             7035: "DAO",     # DAO Maker
             20358: "CPOOL",  # Clearpool
-            17: "IOTA",      # IOTA
             70319: "SKY",    # Sky
             51211: "CTC",    # Creditcoin
             12112: "EPIC",   # Epic Chain
@@ -136,6 +134,23 @@ INDICES = {
             158017: "PUFFER",     # Puffer
             159635: "DRV",        # Derive
             141575: "PNP",        # Penpie
+        }
+    },
+
+    "AIagents": {
+        "name": "Aiagents",
+        "description": "Всякие связанное с аи",
+        "tokens": {
+            169: "FET",           # Fetch
+            152389: "VIRTUAL",    # Virtuals Protocol
+            158798: "AIXBT",      # aixbt by Virtuals
+            159339: "REX",        # REVOX
+            2986: "PHA",          # PHALA
+            158196: "COOKIE",     # Cookie DAO
+            144676: "OLAS",       # Autonolas
+            159512: "GRIFFAIN",   # GRIFFAIN
+            160377: "PROMPT",     # Prompt
+            159726: "BID",        # CreatorBid
         }
     },
 
